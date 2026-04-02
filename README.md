@@ -68,3 +68,6 @@ This project is production-ready.
 **Kogili Lakshmi Murari** *Passionate about building tech that impacts education.*
 
 ---
+Screenshots
+![WhatsApp Image 2026-04-02 at 2 33 45 PM (1)](https://github.com/user-attachments/assets/2d480dea-517f-4734-a643-8c1d2fbf4e20)
+
