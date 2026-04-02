@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="delta_blue">#1736F5</color>    <color name="delta_yellow">#FFC709</color>  <color name="delta_light_gray">#DEDEDE</color> <color name="delta_dark_gray">#808080</color>  <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bg_surface">#F5F5F5</color> </resources>

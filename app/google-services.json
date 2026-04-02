@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571395241888",
+    "project_id": "kogilimurari2004",
+    "storage_bucket": "kogilimurari2004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571395241888:android:dbdb2c6122cc06728e56c5",
+        "android_client_info": {
+          "package_name": "com.example.deltarevtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571395241888-aio538naantrn4ut7ib4ssi5gkv5sn6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deltarevtech",
+            "certificate_hash": "af2e3445856c1ec992a9857c0e56c060d831f8f7"
+          }
+        },
+        {
+          "client_id": "571395241888-ont8ls2qmm64hj1ia3pdqmpc54chu5ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deltarevtech",
+            "certificate_hash": "b770e464d17dd2952efd7841923f86ee348b1240"
+          }
+        },
+        {
+          "client_id": "571395241888-f0fs1om45g7pl7s0nnr1lstkmdl98v04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIfBs1gN0EE2Oj1BZr5apVjzlrSmjfc7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571395241888-f0fs1om45g7pl7s0nnr1lstkmdl98v04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

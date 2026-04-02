@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_welcome_user" type="id" />
+    <item name="fragment_container" type="id" />
+
+    <item name="iv_user_profile" type="id" />
+    <item name="tv_user_name" type="id" />
+    <item name="tv_user_email" type="id" />
+    <item name="btn_logout" type="id" />
+
+    <item name="menu_home" type="id" />
+    <item name="menu_demo" type="id" />
+    <item name="menu_schedule" type="id" />
+    <item name="menu_exam" type="id" />
+    <item name="menu_results" type="id" />
+    <item name="menu_contact" type="id" />
+    <item name="menu_smart_pad" type="id" />
+
+    <item name="bottom_scan_area" type="id" />
+</resources>

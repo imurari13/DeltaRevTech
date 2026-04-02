@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_scanner"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/nav_scanner" />
+    <item
+        android:id="@+id/nav_demo"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/nav_demo" />
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/nav_contact" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="@string/nav_chat" />
+</menu>

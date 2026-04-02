@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Delta rev tech</string>
+    <string name="app_title">Delta rev tech</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_demo">Demo</string>
+    <string name="nav_contact">Contact</string>
+    <string name="nav_chat">AI Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="we_d_love_to_hear_from_you">We\'d love to hear from you.</string>
+    <string name="your_name">Your Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="send_message">Send Message</string>
+    <string name="how_can_we_help">How can we help?</string>
+    <string name="tap_to_scan">Tap to Scan</string>
+    <string name="awaiting_scan">Awaiting scan...</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_to_continue_to_delta_rev_tech">Sign in to continue to Delta Rev Tech</string>
+    <string name="align_qr_code_to_scan">Align QR Code to Scan</string>
+    <string name="align_qr_code_to_scan1">Align QR Code to Scan</string>
+    <string name="send_message1">Send Message</string>
+    <string name="ask_deltaai">Ask DeltaAI...</string>
+    <string name="delta_rev_tech">Delta Rev Tech</string>
+    <string name="delta_ai">DELTA AI</string>
+    <string name="scanner">SCANNER</string>
+    <string name="scan_learn_connect">Scan. Learn. Connect.</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="welcome_murari">Welcome Murari</string>
+</resources>
